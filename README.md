@@ -1,0 +1,2 @@
+# sputnik
+simple client app
